@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import {Dimensions, SafeAreaView, StyleSheet, Text} from 'react-native';
+import {Dimensions, SafeAreaView, StyleSheet} from 'react-native';
 import WebView from 'react-native-webview';
 
 import {} from 'react-native/Libraries/NewAppScreen';
