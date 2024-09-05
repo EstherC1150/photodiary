@@ -16,5 +16,6 @@ export default defineConfig({
       }, // ProxyOptions 타입을 명시적으로 지정
     },
     port: 3000,
+    host: true,
   },
 });

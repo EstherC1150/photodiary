@@ -18,7 +18,7 @@ const windowHeight = Dimensions.get('window').height;
 function App(): React.JSX.Element {
   return (
     <SafeAreaView style={styles.container}>
-      <WebView source={{uri: 'http://localhost:3000/'}} />
+      <WebView source={{uri: 'http://192.168.35.225:3000/ksg'}} />
     </SafeAreaView>
   );
 }
